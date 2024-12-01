@@ -1,0 +1,8 @@
+[org.gnome.desktop.interface]
+cursor-size=22
+cursor-theme='Qogir-dark'
+font-name='Sans 11'
+gtk-theme='Breeze-Dark'
+icon-theme='Qogir-dark'
+
+
